@@ -58,6 +58,7 @@ I'm a highly motivated **Software Engineer** with experience in **AI**, **securi
 - **IoT Fundamentals: Big Data & Analytics** (Cisco)  
 - **SQL (Basic)** (HackerRank)
 
+---
 
 
 [![markoboreta's GitHub | Stats](https://stats.quira.sh/markoboreta/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=markoboreta)
