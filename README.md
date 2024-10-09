@@ -61,5 +61,7 @@ I'm a highly motivated **Software Engineer** with experience in **AI**, **securi
 ---
 
 
-[![markoboreta's GitHub | Stats](https://stats.quira.sh/markoboreta/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=markoboreta)             
+[![markoboreta's GitHub | Stats](https://stats.quira.sh/markoboreta/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=markoboreta) 
+
+---
 [![markoboreta's GitHub | Languages Over Time](https://stats.quira.sh/markoboreta/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=markoboreta)
