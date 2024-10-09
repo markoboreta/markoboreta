@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Marko Boreta!
+🚀 Passionate Software Engineer with a knack for automating workflows, integrating AI, and building scalable solutions.
+💻 Skilled in Python, JavaScript, Java, and Docker, with experience in frontend and backend development.
 
-<!--
-**markoboreta/markoboreta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills & Tools:
+Languages: Python 🐍, JavaScript ⚡, Java ☕, Bash 🔧
+Frameworks: Flask 🌐, React ⚛️, Vue 🌿
+Data Science: Scikit-Learn 🤖, NumPy 📊
+Infrastructure: Docker 🐳, PowerShell 💻, MySQL 🛢️
+💼 Work Experience:
+AI Engineer @ Zocks (2023-2024)
+Integrated AI into web apps, improved code quality through testing & peer reviews.
 
-Here are some ideas to get you started:
+Technical Operations Intern @ Itron Inc. (2023)
+Set up infrastructure monitoring, automated workflows with Python and Bash.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Education:
+B.Sc. in Computer Science - Eötvös Loránd University (2020-2024)
+🏅 Certifications:
+IoT Fundamentals: Big Data & Analytics (Cisco)
+SQL (Basic) (HackerRank)
