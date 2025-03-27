@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marko Boreta
 
-### 🚀 Passionate Software and Security Engineer
+### 🚀 Passionate DevOps and Security Engineer
 
 I'm a highly motivated **Software Engineer** with experience in **AI**, **security**, and **infrastructure monitoring**. I enjoy developing efficient, maintainable, and scalable software solutions, and I'm always looking to learn and grow.
 
