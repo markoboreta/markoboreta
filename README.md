@@ -2,7 +2,7 @@
 
 ### 🚀 Passionate DevOps and Security Engineer
 
-I'm a highly motivated **Software Engineer** with experience in **AI**, **security**, **cloud platforms**, and **infrastructure monitoring**. I enjoy developing efficient, maintainable, and scalable software solutions, and I'm always looking to learn and grow.
+I'm a highly motivated **Software Engineer** with experience in **AI**, **security**, **cloud platforms**, and **platform engineering**. I enjoy developing efficient, maintainable, and scalable software solutions, and I'm always looking to learn and grow.
 
 - 🌱 Currently expanding my knowledge in **Cyber Security** and **Cloud Technologies**.
 - 💡 I love solving complex problems and working with cross-functional teams.
