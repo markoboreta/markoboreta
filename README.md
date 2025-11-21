@@ -43,29 +43,17 @@ Git, GitHub Actions
 
 ## 💼 Experience
 
-### **Solution Expert – Red Hat OpenShift**
+### **Solution Expert – Nokia Cloud Platform**
 📅 *Mar 2025 – Present @ Nokia*
 
-- Working with **Red Hat OpenShift** platforms to deliver scalable, secure solutions.
-- Supporting customer deployments and troubleshooting **containerized workloads**.
-- Collaborating with engineering teams to enhance cloud‑native workflows.
-- Ensuring best practices for **Kubernetes**, automation, and CI/CD pipelines.
 
 ### **Artificial Intelligence Engineer**
 📅 *Nov 2023 - Mar 2024 @ Zocks*
 
-- Integrated AI solutions into web applications using **Python** and **TypeScript**.
-- Conducted testing and code reviews to ensure software quality.
-- Collaborated across teams to prioritize tasks and manage projects.
 
 ### **Technical Operations Intern**
 📅 *May 2023 - Nov 2023 @ Itron Inc.*
 
-- Built monitoring systems for network infrastructure.
-- Automated technical processes with **Bash**, **Go**, **PowerShell**, and **Python**.
-- Authored technical documentation to enhance operational efficiency.
-
----
 
 ## 🎓 Education
 
